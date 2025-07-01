@@ -7,7 +7,7 @@ textColor = "#fafafa"
 font = "sans serif"
 
 [theme.sidebar]
-backgroundColor = "#EB652B"
+primaryColor = "#EB652B"
 
 [server]
 port = 8502 # change port number. By default, streamlit used 8501 port.
