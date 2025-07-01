@@ -19,7 +19,7 @@ st.markdown('<a href="https://www.aduroadvisors.com"><img src="https://brendan-r
 #     "This open source model was developed by [Andrew Chan](https://www.linkedin.com/in/chandr3w/) "
 #     "from [Atas VC](https://atas.vc/)."
 # )
-st.markdown("This open source model was modified by [Aduro Avdisors](https://www.aduroadvisors.com).")
+st.markdown("This open source model was modified by [Aduro Advisors](https://www.aduroadvisors.com).")
 
 st.title('VC Portfolio Simulator')
 

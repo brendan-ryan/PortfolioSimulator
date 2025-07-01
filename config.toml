@@ -2,6 +2,14 @@
 base = "dark"
 primaryColor = "#1f77b4"
 backgroundColor = "#0e1117"
-secondaryBackgroundColor = "#262730"
+secondaryBackgroundColor = "#EB652B"
 textColor = "#fafafa"
 font = "sans serif"
+
+[server]
+port = 8502 # change port number. By default, streamlit used 8501 port.
+headless = true # This will eliminate automatically open browser
+
+[browser]
+serverAddress = "146.190.57.108" 
+serverPort = 8502
