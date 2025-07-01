@@ -13,12 +13,13 @@ import numpy_financial as npf
 
 
 # App Title
-st.set_page_config(page_title="VC Fund Simulator", page_icon="https://atas.vc/img/favicon.png")
-st.markdown('<a href="https://atas.vc/"><img src="https://atas.vc/img/logo.png" width="150"></a>', unsafe_allow_html=True)
-st.markdown(
-    "This open source model was developed by [Andrew Chan](https://www.linkedin.com/in/chandr3w/) "
-    "from [Atas VC](https://atas.vc/)."
-)
+st.set_page_config(page_title="VC Fund Simulator", page_icon="https://brendan-ryan.github.io/staticimages/circlelogo.png")
+st.markdown('<a href="https://www.aduroadvisors.com"><img src="https://brendan-ryan.github.io/staticimages/logo.png" width="150"></a>', unsafe_allow_html=True)
+# st.markdown(
+#     "This open source model was developed by [Andrew Chan](https://www.linkedin.com/in/chandr3w/) "
+#     "from [Atas VC](https://atas.vc/)."
+# )
+st.markdown("This open source model was modified by [Aduro Avdisors](https://www.aduroadvisors.com).")
 
 st.title('VC Portfolio Simulator')
 
