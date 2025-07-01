@@ -6,9 +6,6 @@ secondaryBackgroundColor = "#262730"
 textColor = "#fafafa"
 font = "sans serif"
 
-[theme.sidebar]
-primaryColor = "#eb652b"
-
 [server]
 port = 8502 # change port number. By default, streamlit used 8501 port.
 headless = true # This will eliminate automatically open browser
