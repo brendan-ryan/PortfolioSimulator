@@ -1,13 +1,13 @@
 [theme]
 base = "dark"
-primaryColor = "#1f77b4"
+primaryColor = "#eb652b""
 backgroundColor = "#0e1117"
 secondaryBackgroundColor = "#262730"
 textColor = "#fafafa"
 font = "sans serif"
 
 [theme.sidebar]
-primaryColor = "#EB652B"
+primaryColor = "#eb652b"
 
 [server]
 port = 8502 # change port number. By default, streamlit used 8501 port.
